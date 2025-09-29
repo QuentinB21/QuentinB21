@@ -57,7 +57,7 @@ Currently seeking a **9-week internship abroad between May and August 2026** in 
 
 ---
 
-## 🛠 Skills
+## 💻 Skills
 
 - **Languages**: C#, Java, JS/TS, Python, SQL
 - **Frameworks**: ASP .NET, Blazor, WPF, VueJs
@@ -73,7 +73,7 @@ Currently seeking a **9-week internship abroad between May and August 2026** in 
 
 ---
 
-## 🎯 Interests
+## ✨ Interests
 
 - New technologies, Artificial Intelligence
 - History
