@@ -17,7 +17,7 @@
 <aside>
 💡
 
-Currently seeking a **9-week internship abroad between May and August 2026**, preferably in North America (USA/Canada), in the fields of **software engineering, data, or artificial intelligence**.
+Currently seeking a **9-week internship abroad between May and August 2026** in an **English-speaking environment**, with a preference for North America or Northern Europe, in the fields of **software engineering, web development, or artificial intelligence**.
 
 </aside>
 
