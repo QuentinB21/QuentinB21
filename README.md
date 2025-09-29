@@ -2,8 +2,6 @@
 
 ***Software Engineer Apprentice – Renault Trucks (Volvo Group)***
 
-*Software Engineer Apprentice – Renault Trucks (Volvo Group)*
-
 **Nationality :** French
 
 📍Location : Lyon, France
