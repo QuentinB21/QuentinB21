@@ -15,7 +15,7 @@ Currently seeking a **9-weeks internship abroad between May and August 2026** in
 
 📧 [bouchotquentin0603@gmail.com](mailto:bouchotquentin0603@gmail.com) 
 
-🌐 [LinkedIn](https://www.linkedin.com/in/quentin-bouchot-1b55321a7/) | [GitHub](https://github.com/QuentinB21)
+🌐 [LinkedIn](https://www.linkedin.com/in/quentin-bouchot-1b55321a7/)
 
 ---
 
