@@ -19,8 +19,6 @@ Currently seeking a **9-weeks internship abroad between May and August 2026** in
 
 ---
 
----
-
 ## 💼 Professional Experience
 
 ### Renault Trucks (Volvo Group) – Software Engineer Apprentice
