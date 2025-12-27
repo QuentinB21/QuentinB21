@@ -1,6 +1,13 @@
 # Quentin Bouchot
 
-***Software Engineer Apprentice – Renault Trucks (Volvo Group)***
+## Computer science engineering student seeking internship
+
+<aside>
+💡
+
+Currently seeking a **9-weeks internship abroad between May and August 2026** in an **English-speaking environment**, with a preference for North America or Northern Europe, in the domains of **software engineering, web development, or artificial intelligence**.
+
+</aside>
 
 **Nationality :** French
 
@@ -12,12 +19,30 @@
 
 ---
 
-<aside>
-💡
+---
 
-Currently seeking a **9-week internship abroad between May and August 2026** in an **English-speaking environment**, with a preference for North America or Northern Europe, in the fields of **software engineering, web development, or artificial intelligence**.
+## 💼 Professional Experience
 
-</aside>
+### Renault Trucks (Volvo Group) – Software Engineer Apprentice
+
+*Sept. 2024 – Present, Vénissieux, France*
+
+> Contributed to the development of a **diagnostic tool** for light commercial vehicles.
+> 
+> 
+> Designed and enhanced both **desktop applications** (WPF) and a **web portal** (Blazor) used internally and commercially.
+> 
+> - Realize diagnotics tools maintenance and new fonctionnalities.
+> - Use of Power bi, Azure DevOps, App Insight.
+> - Conception of CI/CD
+> - .NET version used : 5/8
+
+### Biosystèmes – Software Developer Apprentice
+
+*Sept. 2023 – Aug. 2024, Couternon, France*
+
+> Developed commercial **Web applications** (VueJs) from scratch to enable **sensory questionnaire generation** from template.
+> 
 
 ---
 
@@ -36,30 +61,9 @@ Currently seeking a **9-week internship abroad between May and August 2026** in 
 
 ---
 
-## 💼 Professional Experience
-
-### Renault Trucks (Volvo Group) – Software Engineer Apprentice
-
-*Sept. 2024 – Present, Vénissieux, France*
-
-> Contributed to the development of a **diagnostic tool** for light commercial vehicles.
-> 
-> 
-> Designed and enhanced both **desktop applications** (WPF) and a **web portal** (Blazor) used internally and commercially.
-> 
-
-### Biosystèmes – Software Developer Apprentice
-
-*Sept. 2023 – Aug. 2024, Couternon, France*
-
-> Developed commercial **Web applications** (VueJs) from scratch to enable **sensory questionnaire generation** from template.
-> 
-
----
-
 ## 💻 Skills
 
-- **Languages**: C#, Java, JS/TS, Python, SQL
+- **Languages**: C# (3 years), Java, JS/TS (1 year), Python, SQL
 - **Frameworks**: ASP .NET, Blazor, WPF, VueJs
 - **Tools**: Azure DevOps, Github,
 - **Concepts**: Object-Oriented Programming, Continuous Integration,
@@ -79,3 +83,4 @@ Currently seeking a **9-week internship abroad between May and August 2026** in 
 - History
 - Gaming
 - Movies/series
+- Swimming (10 years including competition)
