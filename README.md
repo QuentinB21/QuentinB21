@@ -61,10 +61,10 @@ Currently seeking a **9-weeks internship abroad between May and August 2026** in
 
 ## 💻 Skills
 
-- **Languages**: C# (3 years), Java, JS/TS (1 year), Python, SQL
+- **Languages**: C# (3 years), Java, JS/TS (1 year), SQL, Python
 - **Frameworks**: ASP .NET, Blazor, WPF, VueJs
 - **Tools**: Azure DevOps, Github,
-- **Concepts**: Object-Oriented Programming, Continuous Integration,
+- **Concepts**: Object-Oriented Programming, CI/CD, Scrum
 
 ---
 
