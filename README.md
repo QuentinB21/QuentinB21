@@ -5,7 +5,7 @@
 <aside>
 💡
 
-Currently seeking a 9-week international internship starting after June 10, 2026, with a strong interest in North America, in the fields of **software engineering, web development, or artificial intelligence**.
+Currently seeking a **9-week international internship** starting after **June 10, 2026**, with a strong interest in North America, in the fields of **software engineering, web development, or artificial intelligence**.
 
 </aside>
 
